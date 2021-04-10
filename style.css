@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+
+}
+.logo{
+    background-color: red;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.menu{
+    background-color: dimgrey;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+
+.m-left{
+    float: left;
+    width: 20%;
+    height: 400px;
+    background-color: forestgreen;
+    text-align: center;
+}
+.m-center{
+    float: left;
+    width: 60%;
+    height: 400px;
+    background-color: aliceblue;
+    text-align: center;
+    overflow: hidden;
+}
+.m-right{
+    float: left;
+    width: 20%;
+    height: 400px;
+    background-color: pink;
+    text-align: center;
+}
+.top{
+    height: 100px;
+    background-color: firebrick;
+}
+.middle{
+    height: 200px;
+    background-color: fuchsia;
+    
+}
+.bottom{
+    height: 100px;
+    background-color: rebeccapurple;
+}
+.middleleft{
+    width: 50%;
+    background-color: darkkhaki;
+    float: left;
+    height: 100%;
+}
+.middleright{
+    width: 50%;
+    background-color: darkslategray;
+    float: left;
+    
+}
+.footer{
+    background-color: purple;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.header{
+    background-color: chocolate;
+    text-align: center;
+    height: 50px;
+}
+.content-left{
+    width: 33%;
+    background-color: forestgreen;
+    float: left;
+    height: 500px;
+}
+.content-left-top{
+    height: 50%;
+    background-color: red;
+}
+.content-left-bottom{
+    height: 50%;
+    background-color: saddlebrown;
+}
+.content-right-top{
+    height: 33%;
+    background-color: coral;
+}
+.content-right-middle{
+    height: 33%;
+    background-color: teal;
+}
+.content-right-bottom{
+    height: 33%;
+    background-color: lemonchiffon;
+        overflow: hidden;
+}
+
+.content-middle{
+    width: 34%;
+    background-color: hotpink;
+    float: left;
+    height: 500px;
+}
+.content-right{
+    width: 33%;
+    background-color: darkcyan;
+    float: left;
+    height: 500px;
+
+}
+
+.crb-left{
+    width: 50%;
+    float: left;
+    height: 100%;
+    background-color: chartreuse;
+}
+.crb-right{
+    width: 50%;
+    float: left;
+    height: 100%;
+    background-color: orchid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
