@@ -132,6 +132,94 @@
     background-color: orchid;
 }
 
+/* ------------------------------------- */
+.layout3{
+    
+    overflow: hidden;
+}
+.hpart1{
+    background-color: aqua;
+    width: 30%;
+    float: left;
+    height: 80px;
+}
+.hpart2{
+        background-color: coral;
+    width: 10%;
+    float: left;
+    height: 80px;
+}
+.hpart3{
+        background-color: indianred;
+    width: 30%;
+    float: left;
+    height: 80px;
+}
+.hpart4{
+            background-color: gold;
+    width: 30%;
+    float: left;
+    height: 80px;
+}
+.cpart1{
+    background-color: indianred;
+    width: 25%;
+    float: left;
+    height: 400px;
+}
+.top1{
+    height: 100px;
+    background-color: black;
+}
+.top2{
+    height: 100px;
+    background-color: crimson;
+}
+.top3{
+    height: 100px;
+    background-color: rebeccapurple;
+}
+.top4{
+    height: 100px;
+    background-color: orchid;
+}
+.cpart2{
+    background-color: chocolate;
+    width: 25%;
+    float: left;
+    height: 400px;
+}
+
+.cpart3{
+    background-color: violet;
+    width: 25%;
+    float: left;
+    height: 400px;
+}
+.cpart4{
+    background-color: coral;
+    width: 25%;
+    float: left;
+    height: 400px;
+}
+
+.fpart1{
+    background-color: aquamarine;
+    height: 100px;
+    width: 50%;
+    float: left;
+}
+.fpart2{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 50%;
+    float: left;
+}
+
+
+
+
+
 
 
 
